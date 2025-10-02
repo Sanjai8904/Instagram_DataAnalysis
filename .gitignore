@@ -1,0 +1,11 @@
+insta_dataset.csv
+
+*.png
+!engagement_by_content.png
+!engagement_by_day.png
+
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.cache
