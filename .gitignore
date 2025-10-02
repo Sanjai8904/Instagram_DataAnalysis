@@ -1,9 +1,12 @@
-insta_dataset.csv
+# Ignore raw dataset
+fake_instagram_dataset.csv
 
+# Ignore auto-generated plots except selected ones
 *.png
 !engagement_by_content.png
 !engagement_by_day.png
 
+# Ignore temp/compiled files
 __pycache__/
 *.pyc
 .DS_Store
