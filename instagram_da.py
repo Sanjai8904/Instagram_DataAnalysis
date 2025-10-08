@@ -10,7 +10,7 @@ CLEANED_CSV = "cleaned_insta_dataset.csv"
 
 # MySQL Connection Details (update with your credentials)
 MYSQL_USER = "root"
-MYSQL_PASSWORD = "1508"
+MYSQL_PASSWORD = "****"
 MYSQL_HOST = "localhost"
 MYSQL_DB = "instagram_analytics"
 # --------------------------
