@@ -1,4 +1,4 @@
-#📊 Instagram Social Media Analytics using Python and SQL  
+# 📊 Instagram Social Media Analytics using Python and SQL  
 This project analyzes Instagram post data (fake dataset) using Python and SQL.  
 The goal is to gain insights into post performance, engagement trends, and content effectiveness.  
 
